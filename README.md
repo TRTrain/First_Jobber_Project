@@ -1,4 +1,4 @@
-# First_Jobber_Project :mortar_board:
+# First Jobber Project :mortar_board:
 ## Objective 📍
 Understanding graduate student and employment information in order to achieve data insight  such as
 <p> • How many students get a job after graduation?
